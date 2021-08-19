@@ -7,6 +7,8 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@vue/babel-plugin-jsx": "1.0.6",
+    "ant-design-vue": "2.2.6",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
